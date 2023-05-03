@@ -1,0 +1,22 @@
+@charset "UTF-8";
+/* CSS Document */
+
+<meta></meta>
+<title>home html travel</title>
+</head>
+<nav></nav>
+<li><a class="home"href="./index.html">home</li></a>
+<li><a class="about"href="./index.html">about</li></a>
+<li><a class="places"href="./index.html">places</li></a>
+<li><a class="activities"href="./index.html">activites</li></a>
+<p style="text-align:headerleft"></p>
+<ul id=navagation-header class="nav-bar horozontal"></ul>
+
+	
+<p>Welcome to my site here you will find tips and tricks on places to go. I will guide you to find great places to go and explore as well. I know of great places to eat, stay, and excursions. Also, will show you the best states, and countires to go to. I have some tips about these places and tricks as well to share.</p>
+<div style="margin-top 1opx"> </div>
+</nav>
+
+
+<body>
+	<img src="IMG_1576.jpeg" width="2316" height="3088" alt=""/>
